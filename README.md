@@ -1,7 +1,7 @@
 # YoutubeMP3Converter
 Library to Download youtube video as mp3 files
 ## Created By
-[![API](https://img.shields.io/badge/AndroidMads-AJTS-brightgreen.svg?style=flat)](https://github.com/androidmads/SQLiteImporterExporter)
+[![API](https://img.shields.io/badge/AndroidMads-AJTS-brightgreen.svg?style=flat)](https://github.com/androidmads/YoutubeMP3Converter)
 ## How to Download
 <b>Gradle:</b>
 ```groovy

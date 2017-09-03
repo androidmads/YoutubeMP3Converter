@@ -28,8 +28,8 @@ dependencies {
 }
 
 
-def siteUrl = 'https://github.com/androidmads/SQLiteImporterExporter'      // Homepage URL of the library
-def gitUrl = 'https://github.com/androidmads/SQLiteImporterExporter.git'   // Git URL
+def siteUrl = 'https://github.com/androidmads/YoutubeMP3Converter'      // Homepage URL of the library
+def gitUrl = 'https://github.com/androidmads/YoutubeMP3Converter.git'   // Git URL
 
 Properties properties = new Properties()
 properties.load(project.rootProject.file('local.properties').newDataInputStream())
